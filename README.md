@@ -1,7 +1,5 @@
 # Google-Cloud-Resources
 
-# GCP 60-Day Challenge Repository
-
 This repository contains a detailed syllabus for a 60-day learning challenge on Google Cloud Platform (GCP). The content is structured week-by-week to help you master GCP concepts, tools, and services, with a focus on practical, hands-on learning.
 
 ---
