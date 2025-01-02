@@ -84,6 +84,7 @@ This repository contains a detailed syllabus for a 60-day learning challenge on 
 2. **Day 51-55:** Prepare for GCP Associate/Professional certifications.
 3. **Day 56-60:** Mock exams and final revisions.
 
+---
 
 🛠️ **Goal**: By the end of this challenge, I’ll not only complete hands-on projects but also prepare for GCP certifications.
 
